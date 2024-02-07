@@ -1,7 +1,10 @@
 hello world
-group member:
 
-lance mejares
+group leader:
 lance pastor
+
+group member:
+lance mejares
 ejay capugan
 ralph quilling
+

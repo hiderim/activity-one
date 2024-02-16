@@ -13,5 +13,3 @@
         kb.close();
         System.out.println("\nSum: " + nOne + " % " + nTwo + " = " + (nOne % nTwo));
     }
-}
-
